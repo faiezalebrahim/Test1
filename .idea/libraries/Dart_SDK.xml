@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Dart SDK">
+    <CLASSES>
+      <root url="file://C:/dart-sdk/lib/collection" />
+      <root url="file://C:/dart-sdk/lib/core" />
+      <root url="file://C:/dart-sdk/lib/crypto" />
+      <root url="file://C:/dart-sdk/lib/html" />
+      <root url="file://C:/dart-sdk/lib/indexed_db" />
+      <root url="file://C:/dart-sdk/lib/io" />
+      <root url="file://C:/dart-sdk/lib/isolate" />
+      <root url="file://C:/dart-sdk/lib/json" />
+      <root url="file://C:/dart-sdk/lib/math" />
+      <root url="file://C:/dart-sdk/lib/mirrors" />
+      <root url="file://C:/dart-sdk/lib/scalarlist" />
+      <root url="file://C:/dart-sdk/lib/svg" />
+      <root url="file://C:/dart-sdk/lib/uri" />
+      <root url="file://C:/dart-sdk/lib/utf" />
+      <root url="file://C:/dart-sdk/lib/web_audio" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
